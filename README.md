@@ -6,7 +6,7 @@
 - yarn
 - yarn start
 
-Using Webpack, SCSS, JS
+Using Webpack, SCSS, JS, HTML. <br>
 Implemented pop-up and form with POST request after clicking on the button "Let's Talk"
 ![homepage](https://user-images.githubusercontent.com/87609018/224616353-568c5c86-dfa8-47f5-af27-00cedf642f8e.png)
 
