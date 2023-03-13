@@ -1,5 +1,5 @@
 # Landing-page-Afrianska
-### To start project nesessary run commands in terminal:
+### To start the project, you need to run the commands in the terminal:
 - npm install
 - npm run start
 #### or 
